@@ -1,4 +1,4 @@
-FROM gitea/gitea:1.1.0
+FROM gitea/gitea:latest
 MAINTAINER willemvd <willemvd@github>
 
 ENV HOME /data/git
