@@ -157,7 +157,7 @@ parameters:
 - description: Docker image name
   name: DOCKER_IMAGE_NAME
   required: true
-  value: willemvd/gitea-unprivileged-docker
+  value: fratle/gitea-unprivileged-docker
 - description: Docker image version
   name: DOCKER_IMAGE_VERSION
   required: true
